@@ -5,7 +5,13 @@ body {
   font-family: "Roboto", sans-serif !important;
   margin: 0;
   padding: 0;
+  overflow-x: hidden;
 }
+
+.min-height-view {
+  min-height: 100vh;
+}
+
 .dhiwise-code,
 .dhiwise-navigation {
   min-height: 100%;
