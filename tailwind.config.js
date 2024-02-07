@@ -11,7 +11,7 @@ module.exports = {
       colors: {
         blue: { 900: "#0011b2" },
         black: { 900: "#000000", "900_3f": "#0000003f" },
-        lime: { 900: "#ae653c" },
+        lime: { 700: "#a5ae3c", 900: "#ae653c" },
         light_green: { 800: "#629126" },
         white: { A700: "#ffffff" },
       },
