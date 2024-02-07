@@ -2,6 +2,7 @@ import React from "react";
 
 const sizeClasses = {
   txtInterRegular16WhiteA700: "font-inter font-normal",
+  txtInterBold48: "font-bold font-inter",
   txtInterRegular16: "font-inter font-normal",
 } as const;
 
