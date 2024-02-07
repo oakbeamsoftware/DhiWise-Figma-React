@@ -7,7 +7,7 @@ import HomeHeader from "components/HomeHeader";
 const Home1Page: React.FC = () => {
   return (
     <>
-      <div className="bg-lime-900 flex flex-col font-inter items-center justify-start mx-auto w-auto sm:w-full md:w-full">
+      <div className="bg-lime-900 flex flex-col font-inter items-center justify-start mx-auto w-auto sm:w-full md:w-full min-height-view">
         <div className="md:px-5 relative w-full">
           <Img
             className="h-[982px] m-auto object-cover opacity-op w-full"
